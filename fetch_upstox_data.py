@@ -34,6 +34,8 @@ SYMBOL_TO_INSTRUMENT_KEY = {
     "RELIANCE": "NSE_EQ|INE002A01018",
     "SBIN": "NSE_EQ|INE062A01020",
     "TATAMOTORS": "NSE_EQ|INE155A01022",
+    "HDFCBANK": "NSE_EQ|INE040A01034",
+    "ICICIBANK": "NSE_EQ|INE090A01021",
     
     # "Nifty 50": "NSE_INDEX|Nifty 50",
     # ... add the rest of your chosen universe here
